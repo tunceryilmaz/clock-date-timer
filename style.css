@@ -1,0 +1,60 @@
+
+
+body {
+  background: black;
+}
+
+.clock {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 60px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+#myName{
+
+    border-bottom: 10px solid #e98208;
+    border-right:7px solid #39aea0;
+    border-left:5px solid #55dfec;
+    border-top:3px solid #d34a5e;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 17px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 10px;
+    color: white;
+}
+#myClock{
+        
+        border-bottom: 10px ridge #e98208;
+       
+        border-bottom-right-radius: 90px;
+   
+    border-bottom-left-radius: 90px;
+        color: white;
+    
+}
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 50px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+}
+
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  letter-spacing: 7px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+ img {
+     margin-top: 120px;
+     width: 17%;
+}
